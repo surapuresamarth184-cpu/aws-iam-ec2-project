@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Samarth Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Welcome to My Portfolio</h1>
+
+    <h2>About Me</h2>
+    <p>Hello! My name is Samarth.</p>
+    <p>I am learning Linux Administration and AWS Cloud.</p>
+
+    <h2>My Skills</h2>
+    <p>Linux | AWS | Networking | S3</p>
+
+    <h2>My Projects</h2>
+    <p>AWS S3 Static Website Hosting</p>
+
+    <h2>Contact Me</h2>
+    <p>Email: your-email@example.com</p>
+
+</body>
+</html>
